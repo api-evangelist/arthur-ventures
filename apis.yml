@@ -1,21 +1,51 @@
 aid: arthur-ventures
 name: Arthur Ventures
-description: 'Arthur Ventures is a company surfaced as a portfolio company of foundry-group and added
-  to the API Evangelist network as a stub for enrichment. Sector: venture-capital. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  Arthur Ventures is a Minneapolis, Minnesota venture capital firm that invests in early-stage B2B
+  software companies with a global reach. The firm backs capital-efficient, founder-led software
+  businesses across the United States and internationally, partnering with teams building enterprise
+  and vertical SaaS, cybersecurity, developer tools, and data infrastructure. Arthur Ventures manages
+  approximately $2B in assets under management, including roughly $800M in current active funds, and
+  supports a portfolio of 60+ active companies. Notable portfolio investments include ThreatLocker,
+  DNSFilter, Nucleus Security, DataCamp, Total Expert, Recast Software, CertifID, Hudu, Stream, and
+  Macabacus. The firm is led by general partners Patrick Meenan, Ryan Kruizenga, and Andrew Heim, with
+  offices at 250 Nicollet Mall in downtown Minneapolis.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.arthurventures.com/hubfs/Theme-2024/Images/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/arthur-ventures/refs/heads/main/apis.yml
-x-type: company
+x-type: venture-capital
+x-category: Venture Capital
 x-source: vc-portfolio
 x-backed-by:
 - foundry-group
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: enrichment-pass
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
-- Company
 - Venture Capital
+- B2B Software
+- Enterprise SaaS
+- Early Stage
+- Growth Stage
+- Cybersecurity
+- Developer Tools
+- Data Infrastructure
+- Minneapolis
+- Minnesota
+- North America
+- Global
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,30 @@ maintainers:
 common:
 - type: Website
   url: https://www.arthurventures.com
+- type: Portfolio
+  url: https://www.arthurventures.com/companies
+- type: Team
+  url: https://www.arthurventures.com/team
+- type: Blog
+  url: https://www.arthurventures.com/news-2026
+- type: TermsOfService
+  url: https://www.arthurventures.com/legal-disclaimer
+- type: Login
+  url: https://arthurventures.arkpes.com/login
+- type: DomainSecurity
+  url: security/arthur-ventures-domain-security.yml
+- type: Features
+  data:
+  - 'Stage: Early-stage and growth-stage B2B software'
+  - 'Focus: enterprise and vertical SaaS, cybersecurity, developer tools, data infrastructure'
+  - 'Geography: United States and global'
+  - 'AUM: approximately $2B (self-reported)'
+  - 'Current funds: approximately $800M active'
+  - 'Activity: 60+ active portfolio companies'
+  - 'Leadership: General Partners Patrick Meenan, Ryan Kruizenga, Andrew Heim'
+  - 'Headquarters: 250 Nicollet Mall, Suite 750, Minneapolis, MN 55401'
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
