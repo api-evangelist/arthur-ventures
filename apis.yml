@@ -10,6 +10,17 @@ description: >-
   DNSFilter, Nucleus Security, DataCamp, Total Expert, Recast Software, CertifID, Hudu, Stream, and
   Macabacus. The firm is led by general partners Patrick Meenan, Ryan Kruizenga, and Andrew Heim, with
   offices at 250 Nicollet Mall in downtown Minneapolis.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
