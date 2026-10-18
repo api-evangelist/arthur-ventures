@@ -73,44 +73,53 @@ companies:
   slug: datacamp
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.datacamp.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: DNSFilter
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
   slug: dnsfilter
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.dnsfilter.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Hudu
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
   suggested_slug: hudu
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://www.hudu.com/
 - name: Jane
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
   suggested_slug: jane
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://jane.app/
 - name: Macabacus
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
   suggested_slug: macabacus
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://macabacus.com
 - name: Medvelle AI
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
   suggested_slug: medvelle-ai
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://www.medvelle.com/
 - name: Pearly
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
   suggested_slug: pearly
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://www.pearly.co/
 - name: Recast Software
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
@@ -124,18 +133,21 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: name-slug
+  x-url-candidate: https://stream-three-psi.vercel.app/
 - name: Streamline
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
   suggested_slug: streamline
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://www.streamline.ai/
 - name: TotalExpert
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
   suggested_slug: totalexpert
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://www.totalexpert.com/
 - name: Zizzl Health
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
