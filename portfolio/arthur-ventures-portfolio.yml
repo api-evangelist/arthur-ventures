@@ -67,6 +67,8 @@ companies:
   suggested_slug: cfi
   in_network: false
   is_api_provider: false
+  url: https://corporatefinanceinstitute.com
+  x-url-source: web search 2026-10-18
 - name: DataCamp
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
@@ -126,6 +128,8 @@ companies:
   suggested_slug: recast-software
   in_network: false
   is_api_provider: false
+  url: https://www.recastsoftware.com
+  x-url-source: web search 2026-10-18
 - name: Stream
   source: https://www.arthurventures.com
   x-added: '2026-10-18'
@@ -154,3 +158,5 @@ companies:
   suggested_slug: zizzl-health
   in_network: false
   is_api_provider: false
+  url: https://zizzlhealth.com/
+  x-url-source: web search 2026-10-18

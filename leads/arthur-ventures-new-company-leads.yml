@@ -24,7 +24,7 @@ leads:
   source: https://www.arthurventures.com
   stub_created: false
 - name: CFI
-  url: ''
+  url: https://corporatefinanceinstitute.com
   suggested_slug: cfi
   sector: ''
   source_vc: arthur-ventures
@@ -66,7 +66,7 @@ leads:
   source: https://www.arthurventures.com
   stub_created: false
 - name: Recast Software
-  url: ''
+  url: https://www.recastsoftware.com
   suggested_slug: recast-software
   sector: ''
   source_vc: arthur-ventures
@@ -87,7 +87,7 @@ leads:
   source: https://www.arthurventures.com
   stub_created: false
 - name: Zizzl Health
-  url: ''
+  url: https://zizzlhealth.com/
   suggested_slug: zizzl-health
   sector: ''
   source_vc: arthur-ventures
