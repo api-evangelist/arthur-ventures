@@ -31,35 +31,28 @@ leads:
   source: https://www.arthurventures.com
   stub_created: false
 - name: Hudu
-  url: ''
+  url: https://www.hudu.com/
   suggested_slug: hudu
   sector: ''
   source_vc: arthur-ventures
   source: https://www.arthurventures.com
   stub_created: false
-- name: Jane
-  url: ''
-  suggested_slug: jane
-  sector: ''
-  source_vc: arthur-ventures
-  source: https://www.arthurventures.com
-  stub_created: false
 - name: Macabacus
-  url: ''
+  url: https://macabacus.com
   suggested_slug: macabacus
   sector: ''
   source_vc: arthur-ventures
   source: https://www.arthurventures.com
   stub_created: false
 - name: Medvelle AI
-  url: ''
+  url: https://www.medvelle.com/
   suggested_slug: medvelle-ai
   sector: ''
   source_vc: arthur-ventures
   source: https://www.arthurventures.com
   stub_created: false
 - name: Pearly
-  url: ''
+  url: https://www.pearly.co/
   suggested_slug: pearly
   sector: ''
   source_vc: arthur-ventures
@@ -73,15 +66,8 @@ leads:
   source: https://www.arthurventures.com
   stub_created: false
 - name: Streamline
-  url: ''
+  url: https://www.streamline.ai/
   suggested_slug: streamline
-  sector: ''
-  source_vc: arthur-ventures
-  source: https://www.arthurventures.com
-  stub_created: false
-- name: TotalExpert
-  url: ''
-  suggested_slug: totalexpert
   sector: ''
   source_vc: arthur-ventures
   source: https://www.arthurventures.com
