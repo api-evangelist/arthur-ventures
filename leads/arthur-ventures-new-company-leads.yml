@@ -1,0 +1,95 @@
+generated: '2026-10-18'
+method: derived
+source_vc: arthur-ventures
+leads:
+- name: Perry Weather
+  url: https://perryweather.com
+  suggested_slug: perry-weather
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: TJM Labs
+  url: https://tjmlabs.com
+  suggested_slug: tjm-labs
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: PureSpectrum
+  url: https://purespectrum.com
+  suggested_slug: purespectrum
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: CFI
+  url: ''
+  suggested_slug: cfi
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: Hudu
+  url: ''
+  suggested_slug: hudu
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: Jane
+  url: ''
+  suggested_slug: jane
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: Macabacus
+  url: ''
+  suggested_slug: macabacus
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: Medvelle AI
+  url: ''
+  suggested_slug: medvelle-ai
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: Pearly
+  url: ''
+  suggested_slug: pearly
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: Recast Software
+  url: ''
+  suggested_slug: recast-software
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: Streamline
+  url: ''
+  suggested_slug: streamline
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: TotalExpert
+  url: ''
+  suggested_slug: totalexpert
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
+- name: Zizzl Health
+  url: ''
+  suggested_slug: zizzl-health
+  sector: ''
+  source_vc: arthur-ventures
+  source: https://www.arthurventures.com
+  stub_created: false
